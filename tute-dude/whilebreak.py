@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''# while True:
-#     answer = input("enter some thing to print.\n Type 'done' to quit>")
+#     answer = input("enter some thing to prin
 #     if answer == "done":
 #         break
 #     print(answer)
